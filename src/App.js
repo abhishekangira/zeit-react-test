@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello I'm <code>Merged with test branch</code> and I love to code.
+          Same code for <code>Zeit and Netlify</code> deployed with 1 push!.
         </p>
       </header>
     </div>

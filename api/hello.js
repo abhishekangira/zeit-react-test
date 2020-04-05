@@ -3,4 +3,4 @@ export default (req, res) => {
     res.status(200).send(`Hello ${name}!`)
 }
 
-//Functionf for zeit.angira.net
+//Function for zeit.angira.net
